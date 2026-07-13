@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
+| [1539-kth-missing-positive-number](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
@@ -16,4 +17,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
