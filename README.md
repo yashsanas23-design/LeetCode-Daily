@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1539-kth-missing-positive-number](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1901-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +50,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
