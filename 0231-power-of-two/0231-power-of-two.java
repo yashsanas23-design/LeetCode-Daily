@@ -3,10 +3,16 @@ class Solution
     public boolean isPowerOfTwo(int n) 
     {
         if(n<=0)
-            return false;
+           {
+             return false;
+           }
         if((n & n-1)==0)
-            return true;
+           {
+              return true;
+           } 
         else
+        {
             return false;
+        }
     }
 }
