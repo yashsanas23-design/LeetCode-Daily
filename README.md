@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0410-split-array-largest-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
