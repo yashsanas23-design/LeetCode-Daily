@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1539-kth-missing-positive-number](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1901-find-a-peak-element-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
