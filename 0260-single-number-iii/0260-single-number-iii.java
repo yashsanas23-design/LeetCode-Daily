@@ -1,25 +1,26 @@
-class Solution {
-    public int[] singleNumber(int[] nums) {
-        int n = nums.length;
-        int[] result = new int[2];
-        int index = 0;
-
-        for (int i = 0; i < n; i++) {
-            boolean found = false;
-            for (int j = 0; j < n; j++) {
-                if (i != j && nums[i] == nums[j]) {
-                    found = true;
-                    break;
-                }
+class Solution
+{
+    public int[] singleNumber(int[] nums)
+    {
+        int XORR=0;
+        int n=nums.length;
+        for(int i=0;i<n;i++)
+        {
+            XORR=XORR^nums[i];
+        }
+        int rightMost=(XORR & XORR-1)^XORR;
+        int b1=0,b2=0;
+        for(int i=0;i<n;i++)
+        {
+            if((nums[i]&rightMost)!=0)
+            {
+                b1=b1^nums[i];
             }
-            if (!found) {
-                result[index++] = nums[i];
-                if (index == 2) {
-                    break;
-                }
+            else
+            {
+                b2=b2^nums[i];
             }
         }
-
-        return result;
+        return new int[]{b1,b2};
     }
 }
