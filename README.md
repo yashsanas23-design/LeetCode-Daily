@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0410-split-array-largest-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -99,4 +101,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
