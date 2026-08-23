@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0231-power-of-two) |
 | [1563-stone-game-v](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
