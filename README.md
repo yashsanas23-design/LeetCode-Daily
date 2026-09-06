@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1927-sum-game) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Enumeration
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 ## Game Theory
