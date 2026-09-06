@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1539-kth-missing-positive-number](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1539-kth-missing-positive-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0231-power-of-two) |
+| [1248-count-number-of-nice-subarrays](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1927-sum-game) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Enumeration
 |  |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 ## Game Theory
 |  |
 | ------- |
