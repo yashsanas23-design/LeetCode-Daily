@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0992-subarrays-with-k-different-integers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1927-sum-game) |
 ## Prefix Sum
