@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0136-single-number) |
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0410-split-array-largest-sum) |
 | [1563-stone-game-v](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1563-stone-game-v) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0860-lemonade-change) |
