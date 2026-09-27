@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1927-sum-game) |
@@ -99,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
