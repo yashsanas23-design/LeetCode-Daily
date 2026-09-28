@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0435-non-overlapping-intervals) |
 | [1563-stone-game-v](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1563-stone-game-v) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1903-largest-odd-number-in-string) |
