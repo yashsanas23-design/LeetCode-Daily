@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0055-jump-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0136-single-number) |
