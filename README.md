@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1563-stone-game-v) |
 | [1901-find-a-peak-element-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1901-find-a-peak-element-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1927-sum-game) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0455-assign-cookies) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Math
 |  |
 | ------- |
@@ -206,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
