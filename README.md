@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
