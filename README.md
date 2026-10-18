@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0204-count-primes) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0231-power-of-two) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
