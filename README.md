@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0455-assign-cookies) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0328-odd-even-linked-list) |
