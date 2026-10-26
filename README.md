@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1901-find-a-peak-element-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -288,12 +290,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
