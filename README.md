@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0860-lemonade-change](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0930-binary-subarrays-with-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1288-remove-covered-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0231-power-of-two) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1903-largest-odd-number-in-string) |
