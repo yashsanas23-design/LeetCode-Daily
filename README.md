@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2409-count-days-spent-together) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -318,5 +322,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
