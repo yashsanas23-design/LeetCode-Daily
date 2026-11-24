@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
@@ -222,10 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/yashsanas23-design/LeetCode-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Game Theory
 |  |
 | ------- |
